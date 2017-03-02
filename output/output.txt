@@ -1,1 +1,26 @@
-Your output data will end up here
+Top 3 from input listed here! 
+ 
+Top 1
+Customer Last Name : Minami
+customerId = 96f55c7d8f37
+firstTime = Mon Feb 27 04:45:52 PST 2017
+totalVisitNumber = 4
+totalExp = 41.2
+lifeTimeValue = 21424.0
+
+Top 2
+Customer Last Name : Moran
+customerId = 96f55c7d8f38
+firstTime = Wed Jan 04 04:46:46 PST 2017
+totalVisitNumber = 7
+totalExp = 157.10000000000002
+lifeTimeValue = 9076.89
+
+Top 3
+Customer Last Name : Krauter
+customerId = 96f55c7d8f40
+firstTime = Wed Jan 04 04:45:52 PST 2017
+totalVisitNumber = 5
+totalExp = 20.6
+lifeTimeValue = 1190.22
+
