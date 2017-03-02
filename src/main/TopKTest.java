@@ -16,7 +16,7 @@ public class TopKTest {
         Manipulate m = new Manipulate("input/input2.txt","output/output.txt");
         LTVDataSet ltvDataSet = m.readFromFile();
         //get top x, fisrt arg is x
-        m.opXSimpleLTVCustomers(3,ltvDataSet);
+        m.topXSimpleLTVCustomers(3,ltvDataSet);
     }
 
 }

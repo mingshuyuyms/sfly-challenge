@@ -92,7 +92,7 @@ public class Manipulate {
         return exp;
     }
 
-    public ArrayList<String> opXSimpleLTVCustomers(int x, LTVDataSet ltvDataSet){
+    public ArrayList<String> topXSimpleLTVCustomers(int x, LTVDataSet ltvDataSet){
         ArrayList<String> cList = new ArrayList<String>();
 
         String outputFile = this.fileNameOut;
